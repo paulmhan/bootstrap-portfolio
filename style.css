@@ -1,0 +1,28 @@
+
+.main-container{
+    background-image: url(images/criss-cross.png);
+    margin:0;
+    padding:0;
+}
+
+.lead{
+    margin:15px;
+}
+
+.bio{
+    margin:15px;
+
+}
+
+.front-btn{
+    margin:15px;
+    
+}
+
+.box{
+    border: 1px solid;
+    margin:auto;
+    height: 350px;
+    width: 1000px;
+    background-color:white;
+}
